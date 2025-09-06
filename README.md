@@ -16,11 +16,8 @@ Passionné par la sécurité des sytèmes et du réseau.
 - Docker
 
 ### 🎯 À quoi s’attendre ici ?
-Dépôts de projets en cours, expérimentations et partage de connaissances 
-
-### 📫 Me contacter :
-killian.jonneaux@gmail.com  
+Dépôts de projets en cours, expérimentations et partage de connaissances  
 
 ⚡ Fun fact : Toujours à la recherche d’un petit CTF à réaliser !
-https://www.root-me.org/RootmeofKisco /n
+https://www.root-me.org/RootmeofKisco
 https://tryhackme.com/p/THMofKillian
