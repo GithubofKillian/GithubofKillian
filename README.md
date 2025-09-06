@@ -1,17 +1,17 @@
 ## 🚀 Bienvenue sur mon GitHub !
 
 Salut, moi c’est @GithubofKillian  
-Futur ingénieur en système d'information option cyber  
-Passionné par la sécurité informatique et le développement  
+Futur ingénieur en sécurité des systèmes d'information.
+Passionné par la sécurité des sytèmes et du réseau. 
 
 ### 🛠️ Technologies & Compétences :
-- ⚙Langages : **JavaScript**, **Python** , **SQL**  
+- ⚙Langages : **JavaScript/PHP**, **Python**
 - Frontend : **React.js**  
-- Cybersécurité : Sécurité Web, Cryptographie  
+- Cybersécurité : Sécurité Web, Cryptographie, Scripts cyber
 - API : Requêtes REST  
 
 ### 🌱 En apprentissage :
-- Automatisation et scripts en Python
+- Automatisation Ansible et scripting Python
 - Angular JS
 - Docker
 
@@ -23,3 +23,4 @@ killian.jonneaux@gmail.com
 
 ⚡ Fun fact : Toujours à la recherche d’un petit CTF à réaliser !
 https://www.root-me.org/RootmeofKisco
+https://tryhackme.com/p/THMofKillian
