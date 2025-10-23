@@ -10,9 +10,8 @@ Passionné par la sécurité des sytèmes et du réseau.
 - Cybersécurité : Sécurité Web, Cryptographie, Scripts cyber
 - API : Requêtes REST  
 
-### 🌱 En apprentissage :
+### 🌱 On approfondis :
 - Automatisation Ansible et scripting Python
-- Angular JS
 - Docker
 
 ### 🎯 À quoi s’attendre ici ?
