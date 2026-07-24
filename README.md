@@ -1,8 +1,6 @@
 ## 🚀 Bienvenue sur mon GitHub !
 
 Salut, moi c’est @GithubofKillian  
-Futur ingénieur en sécurité des systèmes d'information.
-Passionné par la sécurité des sytèmes et du réseau. 
 
 ### 🛠️ Technologies & Compétences :
 - ⚙Langages : **JavaScript/PHP**, **Python**
