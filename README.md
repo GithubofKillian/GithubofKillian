@@ -3,9 +3,9 @@
 Salut, moi c’est @GithubofKillian  
 
 ### 🛠️ Technologies & Compétences :
-- ⚙Langages : **JavaScript/PHP**, **Python**
+- ⚙Langages : **JavaScript/PHP**, **Assembleur**, **Python**
 - Frontend : **React.js**  
-- Cybersécurité : Sécurité Web, Cryptographie, Scripts cyber
+- Cybersécurité : Sécurité Web, Cryptographie, Scripting
 - API : Requêtes REST  
 
 ### 🌱 On approfondis :
@@ -13,7 +13,7 @@ Salut, moi c’est @GithubofKillian
 - Docker
 
 ### 🎯 À quoi s’attendre ici ?
-Dépôts de projets en cours, expérimentations et partage de connaissances  
+Dépôts de projets en cours nottament sur la recherche de stack/heap overflow 
 
 ⚡ Fun fact : Toujours à la recherche d’un petit CTF à réaliser !
 
