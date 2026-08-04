@@ -1,22 +1,14 @@
-## 🚀 Bienvenue sur mon GitHub !
+Vous trouverez ici mes outils, mes notes d'exploitation et mes writeups de CTF.
 
-Salut, moi c’est @GithubofKillian  
+Plateformes
+Plateforme	Profil	Niveau
+Root-Me	RootmeofKisco	1400 pts · 72 challenges Root-Me Pro
+TryHackMe	THMofKillian	Top 7 %
+Hack The Box	HTBofKisco	—
 
-### 🛠️ Technologies & Compétences :
-- ⚙Langages : **JavaScript/PHP**, **Assembleur**, **Python**
-- Frontend : **React.js**  
-- Cybersécurité : Sécurité Web, Cryptographie, Scripting
-- API : Requêtes REST  
+Membre de l'équipe CTF de CY Tech (projet TAL-CYB, Campus Cyber).
 
-### 🌱 On approfondis :
-- Automatisation Ansible et scripting Python
-- Docker
+Me contacter
+📧 killian.jonneaux@gmail.com · 💼 [LinkedIn]([url](https://www.linkedin.com/in/killian-jx/))
 
-### 🎯 À quoi s’attendre ici ?
-Dépôts de projets en cours nottament sur la recherche de stack/heap overflow 
-
-⚡ Fun fact : Toujours à la recherche d’un petit CTF à réaliser !
-
-https://www.root-me.org/RootmeofKisco
-
-https://tryhackme.com/p/THMofKillian
+Ouvert aux opportunités en audit technique.
